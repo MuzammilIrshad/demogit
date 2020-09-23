@@ -1,2 +1,2 @@
-this is second.txt
+this is default second.txt
 Hello world this is a testing branch
